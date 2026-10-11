@@ -1,0 +1,20 @@
+Column,Description,Format
+SKU,Unique synthetic inventory record identifier,Text
+Product,Product name,Text
+Category,Product category,Category
+Warehouse,Warehouse location,City
+Supplier,Supplier name,Text
+Unit_Cost_INR,Purchase cost per unit,INR
+Selling_Price_INR,Selling price per unit,INR
+Stock_On_Hand,Current units in stock,Units
+Units_Sold_30D,Units sold in the last 30 days,Units
+Reorder_Point,Stock threshold that triggers reorder review,Units
+Target_Stock,Desired stock quantity,Units
+Lead_Time_Days,Estimated supplier lead time,Days
+Units_Received_30D,Units received in last 30 days,Units
+Inventory_Value_INR,Stock on hand × unit cost,INR
+Potential_Revenue_INR,Stock on hand × selling price,INR
+Gross_Profit_Per_Unit_INR,Selling price − unit cost,INR
+Stock_Cover_Days,Stock divided by average daily sales (30-day proxy),Days
+Stock_Status,Reorder Now / Overstock / Healthy rule-based label,Category
+Reorder_Qty,Target stock minus on-hand stock when reorder threshold is met,Units

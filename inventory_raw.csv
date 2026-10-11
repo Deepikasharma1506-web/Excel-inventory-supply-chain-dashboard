@@ -1,0 +1,421 @@
+SKU,Product,Category,Warehouse,Supplier,Unit_Cost_INR,Selling_Price_INR,Stock_On_Hand,Units_Sold_30D,Reorder_Point,Target_Stock,Lead_Time_Days,Units_Received_30D
+SKU-0001,Standing Desk,Furniture,Mumbai,Global Gadgets,18500,14300,55,6,15,45,7,60
+SKU-0002,Standing Desk,Furniture,Delhi,TechNova Distributors,18500,14300,96,45,20,45,18,33
+SKU-0003,Mechanical Keyboard,Accessories,Mumbai,Prime Office Supply,2800,1650,144,60,70,250,7,7
+SKU-0004,Power Bank,Accessories,Mumbai,Global Gadgets,1600,900,406,15,70,240,10,0
+SKU-0005,Standing Desk,Furniture,Hyderabad,TechNova Distributors,18500,14300,2,21,15,45,2,30
+SKU-0006,Webcam HD,Electronics,Mumbai,Prime Office Supply,3200,2150,74,31,45,150,18,63
+SKU-0007,Mechanical Keyboard,Accessories,Mumbai,Urban Workspace,2800,1650,241,33,75,250,11,59
+SKU-0008,Wireless Mouse,Accessories,Delhi,Prime Office Supply,850,420,217,40,120,500,7,63
+SKU-0009,27-inch Monitor,Electronics,Hyderabad,Apex Electronics,14500,11200,46,62,40,100,9,50
+SKU-0010,Power Bank,Accessories,Delhi,Urban Workspace,1600,900,476,11,70,240,7,50
+SKU-0011,Webcam HD,Electronics,Hyderabad,Urban Workspace,3200,2150,103,51,50,150,6,63
+SKU-0012,Printer,Electronics,Pune,Urban Workspace,9800,7600,13,8,25,70,4,46
+SKU-0013,Wireless Mouse,Accessories,Mumbai,Global Gadgets,850,420,165,68,120,500,17,51
+SKU-0014,Mechanical Keyboard,Accessories,Mumbai,TechNova Distributors,2800,1650,460,21,70,250,8,2
+SKU-0015,27-inch Monitor,Electronics,Pune,Global Gadgets,14500,11200,181,15,35,100,8,58
+SKU-0016,External SSD 1TB,Electronics,Mumbai,Prime Office Supply,7200,5400,9,49,30,100,17,9
+SKU-0017,Laptop Stand,Accessories,Bengaluru,Global Gadgets,1350,700,535,3,90,300,16,33
+SKU-0018,External SSD 1TB,Electronics,Pune,Global Gadgets,7200,5400,141,42,30,100,18,23
+SKU-0019,Office Chair,Furniture,Hyderabad,Global Gadgets,7800,5600,127,10,25,80,4,42
+SKU-0020, Ethernet Adapter ,Accessories,Bengaluru,Urban Workspace,750,330,301,28,85,280,13,39
+SKU-0021,Webcam HD,Electronics,Mumbai,TechNova Distributors,3200,2150,165,36,45,150,15,51
+SKU-0022,Power Bank,Accessories,Pune,TechNova Distributors,1600,900,315,69,70,240,17,42
+SKU-0023,Mechanical Keyboard,Accessories,Bengaluru,Urban Workspace,2800,1650,456,49,70,250,17,72
+SKU-0024,Bluetooth Headphones,Electronics,Bengaluru,Global Gadgets,4200,2750,141,0,60,180,13,63
+SKU-0025,USB-C Hub,Accessories,Delhi,TechNova Distributors,1900,1050,322,44,65,220,9,2
+SKU-0026,27-inch Monitor,Electronics,Bengaluru,Global Gadgets,14500,11200,16,12,40,100,18,44
+SKU-0027,Webcam HD,Electronics,Delhi,Global Gadgets,3200,2150,146,1,45,150,5,13
+SKU-0028,Standing Desk,Furniture,Mumbai,Apex Electronics,18500,14300,5,5,20,45,3,64
+SKU-0029,Printer,Electronics,Pune,Prime Office Supply,9800,7600,62,51,25,70,11,57
+SKU-0030,External SSD 1TB,Electronics,Mumbai,Prime Office Supply,7200,5400,107,24,30,100,17,56
+SKU-0031,External SSD 1TB,Electronics,Mumbai,Prime Office Supply,7200,5400,37,63,30,100,14,32
+SKU-0032,27-inch Monitor,Electronics,Mumbai,Urban Workspace,14500,11200,22,8,35,100,2,56
+SKU-0033,Standing Desk,Furniture,Mumbai,Apex Electronics,18500,14300,91,59,15,45,11,9
+SKU-0034,27-inch Monitor,Electronics,Mumbai,,14500,11200,48,72,35,100,6,12
+SKU-0035,Mechanical Keyboard,Accessories,Pune,TechNova Distributors,2800,1650,424,65,75,250,8,58
+SKU-0036,Power Bank,Accessories,Delhi,Prime Office Supply,1600,900,51,32,75,240,5,47
+SKU-0037,Ergonomic Footrest,Furniture,Bengaluru,Urban Workspace,2200,1300,240,4,40,130,8,21
+SKU-0038,27-inch Monitor,Electronics,Mumbai,TechNova Distributors,14500,11200,41,67,40,100,4,21
+SKU-0039,Ergonomic Footrest,Furniture,Hyderabad,Prime Office Supply,2200,1300,246,38,40,130,15,38
+SKU-0040,Ergonomic Footrest,Furniture,Bengaluru,Prime Office Supply,2200,1300,155,73,45,130,10,60
+SKU-0041,Laptop Stand,Accessories,Delhi,Global Gadgets,1350,700,289,70,95,300,6,34
+SKU-0042,Desk Lamp,Furniture,Hyderabad,TechNova Distributors,1150,620,265,30,60,200,12,60
+SKU-0043,Ergonomic Footrest,Furniture,Hyderabad,TechNova Distributors,2200,1300,159,57,40,130,4,41
+SKU-0044,USB-C Hub,Accessories,Bengaluru,Apex Electronics,1900,1050,245,72,65,220,2,25
+SKU-0045,Desk Lamp,Furniture,Bengaluru,TechNova Distributors,1150,620,249,37,60,200,12,52
+SKU-0046,Office Chair,Furniture,Hyderabad,Prime Office Supply,7800,5600,53,13,25,80,17,8
+SKU-0047,Mechanical Keyboard,Accessories,Pune,Prime Office Supply,2800,1650,349,10,75,250,9,53
+SKU-0048,Wireless Mouse,Accessories,Pune,TechNova Distributors,850,420,600,25,125,500,16,13
+SKU-0049,Standing Desk,Furniture,Hyderabad,Urban Workspace,18500,14300,34,8,15,45,16,69
+SKU-0050,Printer,Electronics,Delhi,Apex Electronics,9800,7600,56,27,20,70,18,61
+SKU-0051,Wireless Mouse,Accessories,Bengaluru,TechNova Distributors,850,420,571,49,120,500,13,14
+SKU-0052,Standing Desk,Furniture,Pune,Urban Workspace,18500,14300,72,55,15,45,15,15
+SKU-0053,Bluetooth Headphones,Electronics,Mumbai,Global Gadgets,4200,2750,96,41,60,180,10,58
+SKU-0054,27-inch Monitor,Electronics,Bengaluru,Apex Electronics,14500,11200,120,64,40,100,8,31
+SKU-0055,Desk Lamp,Furniture,Mumbai,Apex Electronics,1150,620,158,63,60,200,2,79
+SKU-0056,Office Chair,Furniture,Pune,TechNova Distributors,7800,5600,117,6,25,80,16,45
+SKU-0057,Laptop Stand,Accessories,Mumbai,Urban Workspace,1350,700,520,45,95,300,11,2
+SKU-0058,Webcam HD,Electronics,Hyderabad,Prime Office Supply,3200,2150,7,67,45,150,10,60
+SKU-0059,Desk Lamp,Furniture,Mumbai,Apex Electronics,1150,620,315,75,60,200,7,56
+SKU-0060,Bluetooth Headphones,Electronics,Hyderabad,Global Gadgets,4200,2750,98,75,60,180,11,28
+SKU-0061,Laptop Stand,Accessories,Hyderabad,TechNova Distributors,1350,700,435,63,90,300,18,6
+SKU-0062,Ergonomic Footrest,Furniture,Pune,Apex Electronics,2200,1300,4,24,40,130,12,22
+SKU-0063,Webcam HD,Electronics,Bengaluru,TechNova Distributors,3200,2150,10,19,45,150,15,73
+SKU-0064,Standing Desk,Furniture,Bengaluru,TechNova Distributors,18500,14300,50,14,15,45,8,68
+SKU-0065,Wireless Mouse,Accessories,Pune,Urban Workspace,850,420,419,20,120,500,12,42
+SKU-0066,Power Bank,Accessories,Hyderabad,TechNova Distributors,1600,900,229,50,70,240,18,49
+SKU-0067,Desk Lamp,Furniture,Bengaluru,Apex Electronics,1150,620,151,72,65,200,16,35
+SKU-0068,Webcam HD,Electronics,Mumbai,Prime Office Supply,3200,2150,45,40,45,150,12,66
+SKU-0069,Ergonomic Footrest,Furniture,Delhi,Urban Workspace,2200,1300,21,4,40,130,18,28
+SKU-0070,Wireless Mouse,Accessories,Mumbai,Apex Electronics,850,420,34,22,120,500,5,52
+SKU-0071,Laptop Stand,Accessories,Delhi,Global Gadgets,1350,700,444,43,95,300,16,7
+SKU-0072,Bluetooth Headphones,Electronics,Mumbai,Prime Office Supply,4200,2750,72,47,55,180,2,24
+SKU-0073,Wireless Mouse,Accessories,Delhi,Apex Electronics,850,420,596,7,120,500,8,5
+SKU-0074,Standing Desk,Furniture,Delhi,Urban Workspace,18500,14300,80,34,15,45,3,24
+SKU-0075,Power Bank,Accessories,Bengaluru,Global Gadgets,1600,900,424,46,75,240,7,5
+SKU-0076,Standing Desk,Furniture,Bengaluru,TechNova Distributors,18500,14300,37,33,20,45,17,39
+SKU-0077,USB-C Hub,Accessories,Delhi,TechNova Distributors,1900,1050,263,56,65,220,10,80
+SKU-0078,Power Bank,Accessories,Pune,TechNova Distributors,1600,900,462,24,70,240,12,26
+SKU-0079,Desk Lamp,Furniture,Pune,Global Gadgets,1150,620,339,67,65,200,7,15
+SKU-0080,Wireless Mouse,Accessories,Pune,Urban Workspace,850,420,232,69,120,500,8,19
+SKU-0081,Power Bank,Accessories,Hyderabad,Apex Electronics,1600,900,461,56,70,240,7,64
+SKU-0082,External SSD 1TB,Electronics,Delhi,Global Gadgets,7200,5400,147,11,30,100,2,17
+SKU-0083,Wireless Mouse,Accessories,Pune,Global Gadgets,850,420,607,70,125,500,2,20
+SKU-0084,27-inch Monitor,Electronics,Bengaluru,Prime Office Supply,14500,11200,96,36,35,100,5,53
+SKU-0085,USB-C Hub,Accessories,Bengaluru,Prime Office Supply,1900,1050,98,29,65,220,10,1
+SKU-0086,Laptop Stand,Accessories,Delhi,Global Gadgets,1350,700,293,7,90,300,8,41
+SKU-0087,Desk Lamp,Furniture,Bengaluru,Apex Electronics,1150,620,111,25,65,200,8,18
+SKU-0088,Bluetooth Headphones,Electronics,Bengaluru,Urban Workspace,4200,2750,167,70,55,180,6,57
+SKU-0089,Bluetooth Headphones,Electronics,Bengaluru,Global Gadgets,4200,2750,351,3,60,180,16,31
+SKU-0090,Ergonomic Footrest,Furniture,Delhi,Prime Office Supply,2200,1300,133,56,40,130,15,48
+SKU-0091,USB-C Hub,Accessories,Hyderabad,Urban Workspace,1900,1050,71,47,65,220,14,9
+SKU-0092,Printer,Electronics,Pune,TechNova Distributors,9800,7600,21,13,25,70,4,25
+SKU-0093,Wireless Mouse,Accessories,Hyderabad,Apex Electronics,850,420,2,52,120,500,16,71
+SKU-0094,Laptop Stand,Accessories,Pune,Apex Electronics,1350,700,413,34,95,300,17,20
+SKU-0095,Office Chair,Furniture,Bengaluru,Apex Electronics,7800,5600,59,67,30,80,5,54
+SKU-0096,USB-C Hub,Accessories,Delhi,Urban Workspace,1900,1050,126,62,65,220,13,61
+SKU-0097,USB-C Hub,Accessories,Pune,Prime Office Supply,1900,1050,406,29,70,220,9,63
+SKU-0098,27-inch Monitor,Electronics,Bengaluru,Urban Workspace,14500,11200,58,46,35,100,2,44
+SKU-0099,Power Bank,Accessories,Mumbai,Urban Workspace,1600,900,463,8,70,240,8,60
+SKU-0100,Wireless Mouse,Accessories,Delhi,TechNova Distributors,850,420,405,15,120,500,3,3
+SKU-0101,Ethernet Adapter,Accessories,Hyderabad,Global Gadgets,750,330,217,9,80,280,18,69
+SKU-0102,Webcam HD,Electronics,Delhi,Global Gadgets,3200,2150,85,62,50,150,2,50
+SKU-0103,Webcam HD,Electronics,Mumbai,TechNova Distributors,3200,2150,253,63,45,150,12,48
+SKU-0104,External SSD 1TB,Electronics,Hyderabad,Urban Workspace,7200,5400,72,55,30,100,10,55
+SKU-0105,Mechanical Keyboard,Accessories,Pune,Prime Office Supply,2800,1650,450,36,75,250,17,60
+SKU-0106,Ergonomic Footrest,Furniture,Mumbai,Prime Office Supply,2200,1300,91,29,40,130,3,55
+SKU-0107,Laptop Stand,Accessories,Hyderabad,Urban Workspace,1350,700,100,28,90,300,15,62
+SKU-0108,27-inch Monitor,Electronics,Bengaluru,Prime Office Supply,14500,11200,161,35,40,100,10,28
+SKU-0109,Office Chair,Furniture,Bengaluru,Urban Workspace,7800,5600,50,32,25,80,6,31
+SKU-0110,Ergonomic Footrest,Furniture,Pune,Global Gadgets,2200,1300,157,40,40,130,7,55
+SKU-0111,USB-C Hub,Accessories,Hyderabad,Apex Electronics,1900,1050,148,75,70,220,16,35
+SKU-0112,External SSD 1TB,Electronics,Delhi,Prime Office Supply,7200,5400,153,29,35,100,3,52
+SKU-0113, Mechanical Keyboard ,Accessories,Hyderabad,TechNova Distributors,2800,1650,252,65,70,250,12,28
+SKU-0114,Ethernet Adapter,Accessories,Pune,Global Gadgets,750,330,465,24,80,280,12,48
+SKU-0115,Webcam HD,Electronics,Pune,TechNova Distributors,3200,2150,129,49,45,150,16,37
+SKU-0116,27-inch Monitor,Electronics,Hyderabad,TechNova Distributors,14500,11200,113,64,35,100,14,47
+SKU-0117,Wireless Mouse,Accessories,Bengaluru,Apex Electronics,850,420,247,19,125,500,8,28
+SKU-0118,Desk Lamp,Furniture,Pune,TechNova Distributors,1150,620,397,37,65,200,8,35
+SKU-0119,External SSD 1TB,Electronics,Bengaluru,TechNova Distributors,7200,5400,5,1,35,100,7,71
+SKU-0120,Bluetooth Headphones,Electronics,Bengaluru,Apex Electronics,4200,2750,231,29,55,180,3,45
+SKU-0121,External SSD 1TB,Electronics,Delhi,Urban Workspace,7200,5400,104,61,30,100,12,23
+SKU-0122,Office Chair,Furniture,Hyderabad,Urban Workspace,7800,5600,61,58,30,80,11,80
+SKU-0123,Printer,Electronics,Pune,Global Gadgets,9800,7600,37,22,25,70,17,77
+SKU-0124,Webcam HD,Electronics,Hyderabad,Urban Workspace,3200,2150,59,45,50,150,8,23
+SKU-0125,Printer,Electronics,Mumbai,TechNova Distributors,9800,7600,63,29,25,70,10,32
+SKU-0126,USB-C Hub,Accessories,Pune,Urban Workspace,1900,1050,56,6,70,220,18,1
+SKU-0127,Webcam HD,Electronics,Bengaluru,TechNova Distributors,3200,2150,77,30,50,150,3,61
+SKU-0128,Webcam HD,Electronics,Bengaluru,Apex Electronics,3200,2150,147,30,50,150,3,18
+SKU-0129,27-inch Monitor,Electronics,Bengaluru,Prime Office Supply,14500,11200,188,40,35,100,4,53
+SKU-0130,Wireless Mouse,Accessories,Pune,Prime Office Supply,850,420,277,51,125,500,13,54
+SKU-0131,Standing Desk,Furniture,Delhi,Urban Workspace,18500,14300,21,4,20,45,14,11
+SKU-0132,Laptop Stand,Accessories,Hyderabad,TechNova Distributors,1350,700,257,2,90,300,9,15
+SKU-0133,Webcam HD,Electronics,Hyderabad,Apex Electronics,3200,2150,96,18,50,150,9,12
+SKU-0134,Office Chair,Furniture,Pune,Urban Workspace,7800,5600,117,49,30,80,15,36
+SKU-0135,External SSD 1TB,Electronics,Mumbai,Urban Workspace,7200,5400,86,40,30,100,12,52
+SKU-0136,Bluetooth Headphones,Electronics,Hyderabad,TechNova Distributors,4200,2750,52,64,60,180,3,61
+SKU-0137,Printer,Electronics,Hyderabad,Prime Office Supply,9800,7600,114,56,25,70,10,61
+SKU-0138,Desk Lamp,Furniture,Hyderabad,Prime Office Supply,1150,620,121,64,65,200,5,39
+SKU-0139,Office Chair,Furniture,Delhi,Prime Office Supply,7800,5600,58,66,25,80,8,28
+SKU-0140,Desk Lamp,Furniture,Bengaluru,Prime Office Supply,1150,620,231,33,65,200,6,51
+SKU-0141,Power Bank,Accessories,Bengaluru,Prime Office Supply,1600,900,341,8,70,240,5,29
+SKU-0142,Ergonomic Footrest,Furniture,Delhi,Global Gadgets,2200,1300,198,16,40,130,14,68
+SKU-0143,Standing Desk,Furniture,Delhi,Apex Electronics,18500,14300,87,31,15,45,5,46
+SKU-0144,Power Bank,Accessories,Delhi,Apex Electronics,1600,900,52,28,70,240,11,13
+SKU-0145,Printer,Electronics,Mumbai,Prime Office Supply,9800,7600,68,55,20,70,5,30
+SKU-0146,Webcam HD,Electronics,Mumbai,Apex Electronics,3200,2150,136,61,45,150,16,74
+SKU-0147,Power Bank,Accessories,Delhi,TechNova Distributors,1600,900,259,44,70,240,3,51
+SKU-0148,Ergonomic Footrest,Furniture,Mumbai,Global Gadgets,2200,1300,63,57,45,130,14,17
+SKU-0149,Laptop Stand,Accessories,Bengaluru,TechNova Distributors,1350,700,255,63,95,300,6,17
+SKU-0150,Power Bank,Accessories,Mumbai,Urban Workspace,1600,900,1,4,75,240,2,31
+SKU-0151,Laptop Stand,Accessories,Hyderabad,Urban Workspace,1350,700,579,53,90,300,10,32
+SKU-0152,Laptop Stand,Accessories,Delhi,Global Gadgets,1350,700,436,8,95,300,2,58
+SKU-0153,USB-C Hub,Accessories,Mumbai,Prime Office Supply,1900,1050,40,56,65,220,15,56
+SKU-0154,External SSD 1TB,Electronics,Pune,Urban Workspace,7200,5400,118,11,35,100,5,4
+SKU-0155,Ergonomic Footrest,Furniture,Delhi,Urban Workspace,2200,1300,31,42,40,130,3,77
+SKU-0156,Laptop Stand,Accessories,Pune,Prime Office Supply,1350,700,66,69,95,300,16,56
+SKU-0157,Printer,Electronics,Mumbai,Global Gadgets,9800,7600,129,43,20,70,17,35
+SKU-0158,Laptop Stand,Accessories,Pune,Urban Workspace,1350,700,163,0,95,300,12,58
+SKU-0159,Ergonomic Footrest,Furniture,Hyderabad,Apex Electronics,2200,1300,228,71,40,130,18,55
+SKU-0160,Standing Desk,Furniture,Hyderabad,Prime Office Supply,18500,14300,4,58,15,45,7,70
+SKU-0161,Ethernet Adapter,Accessories,Delhi,Apex Electronics,750,330,174,41,80,280,15,37
+SKU-0162,Office Chair,Furniture,Mumbai,Apex Electronics,7800,5600,39,26,25,80,12,21
+SKU-0163,27-inch Monitor,Electronics,Bengaluru,Apex Electronics,14500,11200,26,31,40,100,12,31
+SKU-0164,Desk Lamp,Furniture,Pune,Prime Office Supply,1150,620,22,46,65,200,3,23
+SKU-0165,USB-C Hub,Accessories,Pune,TechNova Distributors,1900,1050,34,8,65,220,14,40
+SKU-0166,Wireless Mouse,Accessories,Pune,TechNova Distributors,850,420,69,35,120,500,9,72
+SKU-0167,27-inch Monitor,Electronics,Delhi,Global Gadgets,14500,11200,144,63,35,100,12,1
+SKU-0168,USB-C Hub,Accessories,Bengaluru,TechNova Distributors,1900,1050,106,65,65,220,5,11
+SKU-0169,Standing Desk,Furniture,Hyderabad,Prime Office Supply,18500,14300,26,56,15,45,8,37
+SKU-0170,Printer,Electronics,Delhi,Urban Workspace,9800,7600,30,61,20,70,5,55
+SKU-0171,Ergonomic Footrest,Furniture,Bengaluru,Urban Workspace,2200,1300,41,69,45,130,7,62
+SKU-0172,Office Chair,Furniture,Delhi,TechNova Distributors,7800,5600,75,55,30,80,18,35
+SKU-0173,Printer,Electronics,Delhi,TechNova Distributors,9800,7600,63,32,25,70,3,30
+SKU-0174,Mechanical Keyboard,Accessories,Hyderabad,Global Gadgets,2800,1650,287,68,70,250,16,38
+SKU-0175,Power Bank,Accessories,Pune,Prime Office Supply,1600,900,396,73,70,240,18,15
+SKU-0176,Mechanical Keyboard,Accessories,Mumbai,TechNova Distributors,2800,1650,33,25,75,250,15,5
+SKU-0177,Ergonomic Footrest,Furniture,Mumbai,Urban Workspace,2200,1300,92,60,45,130,18,45
+SKU-0178,Bluetooth Headphones,Electronics,Hyderabad,Apex Electronics,4200,2750,153,1,55,180,13,36
+SKU-0179,Office Chair,Furniture,Hyderabad,TechNova Distributors,7800,5600,6,9,25,80,3,22
+SKU-0180,Office Chair,Furniture,Bengaluru,Global Gadgets,7800,5600,49,38,25,80,15,29
+SKU-0181,Printer,Electronics,Pune,Urban Workspace,9800,7600,132,31,25,70,11,63
+SKU-0182,27-inch Monitor,Electronics,Hyderabad,Global Gadgets,14500,11200,170,46,35,100,7,44
+SKU-0183,27-inch Monitor,Electronics,Mumbai,Apex Electronics,14500,11200,129,40,35,100,15,79
+SKU-0184,External SSD 1TB,Electronics,Mumbai,Prime Office Supply,7200,5400,88,0,30,100,12,16
+SKU-0185,USB-C Hub,Accessories,Delhi,Global Gadgets,1900,1050,353,31,70,220,9,34
+SKU-0186,Laptop Stand,Accessories,Pune,Apex Electronics,1350,700,292,28,90,300,7,41
+SKU-0187,Wireless Mouse,Accessories,Mumbai,TechNova Distributors,850,420,284,37,120,500,14,42
+SKU-0188,Power Bank,Accessories,Hyderabad,Prime Office Supply,1600,900,155,68,70,240,15,19
+SKU-0189,Desk Lamp,Furniture,Pune,Urban Workspace,1150,620,283,42,60,200,3,20
+SKU-0190,Ethernet Adapter,Accessories,Pune,Apex Electronics,750,330,340,16,85,280,17,53
+SKU-0191,Power Bank,Accessories,Mumbai,TechNova Distributors,1600,900,88,16,75,240,15,68
+SKU-0192,Webcam HD,Electronics,Pune,Global Gadgets,3200,2150,57,11,45,150,16,24
+SKU-0193,Printer,Electronics,Bengaluru,Apex Electronics,9800,7600,132,34,25,70,9,68
+SKU-0194,Ergonomic Footrest,Furniture,Bengaluru,TechNova Distributors,2200,1300,189,62,40,130,3,77
+SKU-0195,Laptop Stand,Accessories,Hyderabad,Urban Workspace,1350,700,581,59,90,300,15,76
+SKU-0196,USB-C Hub,Accessories,Hyderabad,Apex Electronics,1900,1050,243,52,65,220,2,36
+SKU-0197,Ethernet Adapter,Accessories,Bengaluru,Global Gadgets,750,330,503,61,80,280,4,17
+SKU-0198,Office Chair,Furniture,Bengaluru,TechNova Distributors,7800,5600,147,48,30,80,5,20
+SKU-0199,Printer,Electronics,Delhi,Apex Electronics,9800,7600,73,42,20,70,3,53
+SKU-0200,Desk Lamp,Furniture,Bengaluru,Global Gadgets,1150,620,336,12,65,200,9,52
+SKU-0201,USB-C Hub,Accessories,Mumbai,Urban Workspace,1900,1050,243,34,65,220,3,58
+SKU-0202,Webcam HD,Electronics,Hyderabad,Urban Workspace,3200,2150,277,48,45,150,17,79
+SKU-0203,Ergonomic Footrest,Furniture,Hyderabad,Prime Office Supply,2200,1300,156,38,45,130,17,0
+SKU-0204,Ergonomic Footrest,Furniture,Bengaluru,Apex Electronics,2200,1300,163,49,45,130,6,34
+SKU-0205,Desk Lamp,Furniture,Delhi,Urban Workspace,1150,620,74,56,60,200,16,25
+SKU-0206,Office Chair,Furniture,Pune,TechNova Distributors,7800,5600,48,60,30,80,16,74
+SKU-0207,Standing Desk,Furniture,Delhi,,18500,14300,11,59,15,45,13,58
+SKU-0208,Ethernet Adapter,Accessories,Pune,Urban Workspace,750,330,337,67,80,280,11,18
+SKU-0209,USB-C Hub,Accessories,Pune,Apex Electronics,1900,1050,34,21,65,220,10,79
+SKU-0210,Desk Lamp,Furniture,Bengaluru,TechNova Distributors,1150,620,41,26,60,200,16,59
+SKU-0211,Desk Lamp,Furniture,Mumbai,Prime Office Supply,1150,620,51,17,65,200,17,29
+SKU-0212,Desk Lamp,Furniture,Bengaluru,Apex Electronics,1150,620,19,13,60,200,3,58
+SKU-0213,USB-C Hub,Accessories,Hyderabad,Urban Workspace,1900,1050,261,22,70,220,13,32
+SKU-0214,Printer,Electronics,Mumbai,Apex Electronics,9800,7600,120,16,20,70,17,52
+SKU-0215,Wireless Mouse,Accessories,Pune,Global Gadgets,850,420,612,42,120,500,14,43
+SKU-0216,Desk Lamp,Furniture,Hyderabad,Prime Office Supply,1150,620,214,36,60,200,12,64
+SKU-0217,Power Bank,Accessories,Pune,TechNova Distributors,1600,900,107,19,70,240,3,45
+SKU-0218,Webcam HD,Electronics,Delhi,Prime Office Supply,3200,2150,153,62,50,150,18,14
+SKU-0219,Bluetooth Headphones,Electronics,Mumbai,TechNova Distributors,4200,2750,55,64,55,180,13,64
+SKU-0220,Printer,Electronics,Hyderabad,Urban Workspace,9800,7600,91,7,25,70,2,7
+SKU-0221,Laptop Stand,Accessories,Mumbai,Apex Electronics,1350,700,54,51,90,300,3,22
+SKU-0222,Standing Desk,Furniture,Bengaluru,Prime Office Supply,18500,14300,13,8,20,45,14,47
+SKU-0223,27-inch Monitor,Electronics,Delhi,Global Gadgets,14500,11200,166,2,40,100,14,51
+SKU-0224,Ergonomic Footrest,Furniture,Bengaluru,Global Gadgets,2200,1300,50,73,40,130,14,19
+SKU-0225,Office Chair,Furniture,Hyderabad,TechNova Distributors,7800,5600,157,33,25,80,13,77
+SKU-0226,Webcam HD,Electronics,Mumbai,Global Gadgets,3200,2150,235,28,45,150,14,51
+SKU-0227,Wireless Mouse,Accessories,Delhi,Urban Workspace,850,420,648,53,120,500,13,67
+SKU-0228,Office Chair,Furniture,Bengaluru,Apex Electronics,7800,5600,51,75,25,80,16,6
+SKU-0229,Bluetooth Headphones,Electronics,Hyderabad,Apex Electronics,4200,2750,293,18,55,180,17,45
+SKU-0230,Mechanical Keyboard,Accessories,Pune,Global Gadgets,2800,1650,445,59,70,250,14,10
+SKU-0231,Ethernet Adapter,Accessories,Bengaluru,TechNova Distributors,750,330,547,39,85,280,9,16
+SKU-0232,Ethernet Adapter,Accessories,Mumbai,TechNova Distributors,750,330,310,21,85,280,5,50
+SKU-0233,Office Chair,Furniture,Bengaluru,TechNova Distributors,7800,5600,15,64,30,80,14,75
+SKU-0234,Office Chair,Furniture,Bengaluru,Apex Electronics,7800,5600,60,43,30,80,12,45
+SKU-0235,Power Bank,Accessories,Pune,Urban Workspace,1600,900,283,27,70,240,3,63
+SKU-0236,Laptop Stand,Accessories,Hyderabad,TechNova Distributors,1350,700,551,65,95,300,8,57
+SKU-0237,Desk Lamp,Furniture,Bengaluru,TechNova Distributors,1150,620,33,17,60,200,10,53
+SKU-0238,USB-C Hub,Accessories,Delhi,Urban Workspace,1900,1050,259,38,70,220,8,36
+SKU-0239,Ethernet Adapter,Accessories,Pune,Global Gadgets,750,330,418,14,85,280,5,40
+SKU-0240,Mechanical Keyboard,Accessories,Delhi,Apex Electronics,2800,1650,260,29,70,250,10,33
+SKU-0241,USB-C Hub,Accessories,Bengaluru,Apex Electronics,1900,1050,349,58,65,220,16,12
+SKU-0242,Mechanical Keyboard,Accessories,Delhi,Urban Workspace,2800,1650,256,20,70,250,15,33
+SKU-0243,Printer,Electronics,Delhi,Global Gadgets,9800,7600,63,48,20,70,15,47
+SKU-0244,Standing Desk,Furniture,Pune,TechNova Distributors,18500,14300,22,54,15,45,7,78
+SKU-0245,Printer,Electronics,Bengaluru,TechNova Distributors,9800,7600,136,27,20,70,16,22
+SKU-0246,Bluetooth Headphones,Electronics,Mumbai,TechNova Distributors,4200,2750,302,72,55,180,4,45
+SKU-0247,Office Chair,Furniture,Delhi,Prime Office Supply,7800,5600,117,53,30,80,4,61
+SKU-0248,Power Bank,Accessories,Hyderabad,Prime Office Supply,1600,900,200,73,75,240,17,60
+SKU-0249,Bluetooth Headphones,Electronics,Hyderabad,Prime Office Supply,4200,2750,360,36,55,180,3,15
+SKU-0250,Wireless Mouse,Accessories,Bengaluru,Prime Office Supply,850,420,128,7,120,500,11,55
+SKU-0251,Printer,Electronics,Mumbai,Apex Electronics,9800,7600,44,51,20,70,16,39
+SKU-0252,Desk Lamp,Furniture,Bengaluru,Global Gadgets,1150,620,399,46,60,200,17,0
+SKU-0253,Printer,Electronics,Delhi,Apex Electronics,9800,7600,6,21,20,70,5,48
+SKU-0254,Office Chair,Furniture,Delhi,Apex Electronics,7800,5600,12,56,30,80,15,75
+SKU-0255,External SSD 1TB,Electronics,Delhi,Apex Electronics,7200,5400,35,20,30,100,7,72
+SKU-0256,Laptop Stand,Accessories,Delhi,Global Gadgets,1350,700,413,19,90,300,18,33
+SKU-0257,Ergonomic Footrest,Furniture,Mumbai,Apex Electronics,2200,1300,187,46,40,130,5,28
+SKU-0258,Wireless Mouse,Accessories,Delhi,Urban Workspace,850,420,432,52,120,500,14,53
+SKU-0259,Bluetooth Headphones,Electronics,Pune,Urban Workspace,4200,2750,238,24,60,180,5,58
+SKU-0260,Office Chair,Furniture,Delhi,TechNova Distributors,7800,5600,95,33,25,80,9,33
+SKU-0261,Standing Desk,Furniture,Bengaluru,Apex Electronics,18500,14300,95,74,15,45,9,9
+SKU-0262,Bluetooth Headphones,Electronics,Mumbai,Global Gadgets,4200,2750,314,34,55,180,14,21
+SKU-0263,External SSD 1TB,Electronics,Mumbai,Global Gadgets,7200,5400,88,67,30,100,7,80
+SKU-0264,Ergonomic Footrest,Furniture,Mumbai,Apex Electronics,2200,1300,30,33,45,130,14,61
+SKU-0265,Office Chair,Furniture,Hyderabad,Prime Office Supply,7800,5600,47,31,25,80,5,58
+SKU-0266,Mechanical Keyboard,Accessories,Hyderabad,TechNova Distributors,2800,1650,201,52,70,250,3,72
+SKU-0267,Desk Lamp,Furniture,Bengaluru,Global Gadgets,1150,620,260,3,60,200,15,48
+SKU-0268,Bluetooth Headphones,Electronics,Delhi,Prime Office Supply,4200,2750,77,53,55,180,3,72
+SKU-0269,Laptop Stand,Accessories,Hyderabad,TechNova Distributors,1350,700,593,48,95,300,8,16
+SKU-0270,External SSD 1TB,Electronics,Hyderabad,Urban Workspace,7200,5400,62,16,30,100,2,67
+SKU-0271,Wireless Mouse,Accessories,Hyderabad,Global Gadgets,850,420,585,6,125,500,3,20
+SKU-0272,Desk Lamp,Furniture,Hyderabad,Prime Office Supply,1150,620,93,71,60,200,8,60
+SKU-0273,Ergonomic Footrest,Furniture,Mumbai,TechNova Distributors,2200,1300,96,6,45,130,6,79
+SKU-0274,Wireless Mouse,Accessories,Bengaluru,Urban Workspace,850,420,746,26,120,500,14,17
+SKU-0275,Office Chair,Furniture,Mumbai,Urban Workspace,7800,5600,126,15,30,80,8,32
+SKU-0276, Mechanical Keyboard ,Accessories,Pune,TechNova Distributors,2800,1650,83,56,70,250,3,75
+SKU-0277,Laptop Stand,Accessories,Bengaluru,Urban Workspace,1350,700,535,70,90,300,11,31
+SKU-0278,Laptop Stand,Accessories,Mumbai,Apex Electronics,1350,700,104,14,90,300,2,55
+SKU-0279,Standing Desk,Furniture,Hyderabad,TechNova Distributors,18500,14300,64,65,20,45,16,13
+SKU-0280,External SSD 1TB,Electronics,Pune,Prime Office Supply,7200,5400,35,69,35,100,10,30
+SKU-0281,Wireless Mouse,Accessories,Mumbai,Global Gadgets,850,420,275,71,125,500,18,30
+SKU-0282,Mechanical Keyboard,Accessories,Delhi,Global Gadgets,2800,1650,161,10,75,250,4,50
+SKU-0283,Webcam HD,Electronics,Hyderabad,Urban Workspace,3200,2150,94,12,50,150,11,56
+SKU-0284,Webcam HD,Electronics,Delhi,Urban Workspace,3200,2150,250,56,45,150,8,12
+SKU-0285,Wireless Mouse,Accessories,Bengaluru,Urban Workspace,850,420,764,64,125,500,6,33
+SKU-0286,Bluetooth Headphones,Electronics,Hyderabad,Global Gadgets,4200,2750,221,21,55,180,14,20
+SKU-0287,Desk Lamp,Furniture,Pune,TechNova Distributors,1150,620,324,28,60,200,10,24
+SKU-0288,Printer,Electronics,Hyderabad,Urban Workspace,9800,7600,54,11,25,70,4,66
+SKU-0289,Office Chair,Furniture,Mumbai,Global Gadgets,7800,5600,102,43,25,80,13,58
+SKU-0290,Desk Lamp,Furniture,Pune,Global Gadgets,1150,620,202,10,65,200,7,4
+SKU-0291,Printer,Electronics,Hyderabad,Global Gadgets,9800,7600,71,34,25,70,12,32
+SKU-0292,Desk Lamp,Furniture,Mumbai,Global Gadgets,1150,620,103,6,60,200,16,29
+SKU-0293,Bluetooth Headphones,Electronics,Hyderabad,Urban Workspace,4200,2750,281,22,55,180,8,3
+SKU-0294,Standing Desk,Furniture,Bengaluru,Apex Electronics,18500,14300,72,64,20,45,8,37
+SKU-0295,USB-C Hub,Accessories,Bengaluru,Urban Workspace,1900,1050,277,12,65,220,7,38
+SKU-0296,Wireless Mouse,Accessories,Pune,Global Gadgets,850,420,468,19,125,500,5,54
+SKU-0297,27-inch Monitor,Electronics,Pune,Prime Office Supply,14500,11200,5,49,35,100,9,57
+SKU-0298,USB-C Hub,Accessories,Bengaluru,Urban Workspace,1900,1050,192,35,65,220,2,11
+SKU-0299,Webcam HD,Electronics,Pune,Global Gadgets,3200,2150,265,17,45,150,17,15
+SKU-0300,Printer,Electronics,Mumbai,Apex Electronics,9800,7600,122,32,20,70,8,65
+SKU-0301,Laptop Stand,Accessories,Hyderabad,Prime Office Supply,1350,700,135,48,90,300,9,25
+SKU-0302,Printer,Electronics,Hyderabad,Apex Electronics,9800,7600,95,51,20,70,15,17
+SKU-0303,Standing Desk,Furniture,Delhi,Global Gadgets,18500,14300,48,1,15,45,11,28
+SKU-0304,Wireless Mouse,Accessories,Pune,Urban Workspace,850,420,342,41,125,500,3,39
+SKU-0305,Ergonomic Footrest,Furniture,Mumbai,Apex Electronics,2200,1300,80,11,40,130,4,57
+SKU-0306,USB-C Hub,Accessories,Hyderabad,Apex Electronics,1900,1050,79,25,65,220,13,30
+SKU-0307,Laptop Stand,Accessories,Delhi,Prime Office Supply,1350,700,299,11,90,300,16,78
+SKU-0308,Printer,Electronics,Delhi,Apex Electronics,9800,7600,105,30,20,70,6,1
+SKU-0309,Wireless Mouse,Accessories,Delhi,Apex Electronics,850,420,345,54,125,500,6,46
+SKU-0310,Wireless Mouse,Accessories,Bengaluru,Urban Workspace,850,420,123,36,125,500,15,11
+SKU-0311,Printer,Electronics,Hyderabad,Apex Electronics,9800,7600,88,40,20,70,16,44
+SKU-0312,Ergonomic Footrest,Furniture,Mumbai,TechNova Distributors,2200,1300,159,18,45,130,7,37
+SKU-0313,Desk Lamp,Furniture,Mumbai,Apex Electronics,1150,620,158,18,60,200,12,21
+SKU-0314,Webcam HD,Electronics,Mumbai,Apex Electronics,3200,2150,149,22,45,150,15,45
+SKU-0315,Bluetooth Headphones,Electronics,Delhi,Global Gadgets,4200,2750,229,36,55,180,8,42
+SKU-0316,USB-C Hub,Accessories,Delhi,TechNova Distributors,1900,1050,283,21,65,220,9,71
+SKU-0317,Ergonomic Footrest,Furniture,Delhi,Global Gadgets,2200,1300,39,45,45,130,7,14
+SKU-0318,Ergonomic Footrest,Furniture,Bengaluru,TechNova Distributors,2200,1300,147,19,40,130,6,78
+SKU-0319,27-inch Monitor,Electronics,Delhi,Urban Workspace,14500,11200,34,66,35,100,2,66
+SKU-0320,External SSD 1TB,Electronics,Pune,Prime Office Supply,7200,5400,141,47,30,100,18,52
+SKU-0321,Office Chair,Furniture,Mumbai,Prime Office Supply,7800,5600,111,9,25,80,11,52
+SKU-0322,Ethernet Adapter,Accessories,Bengaluru,TechNova Distributors,750,330,102,13,80,280,17,16
+SKU-0323,Bluetooth Headphones,Electronics,Delhi,TechNova Distributors,4200,2750,301,33,60,180,13,69
+SKU-0324,Webcam HD,Electronics,Hyderabad,Apex Electronics,3200,2150,47,6,50,150,8,65
+SKU-0325,27-inch Monitor,Electronics,Mumbai,TechNova Distributors,14500,11200,77,34,40,100,6,33
+SKU-0326,USB-C Hub,Accessories,Bengaluru,Prime Office Supply,1900,1050,313,30,65,220,2,64
+SKU-0327,Wireless Mouse,Accessories,Mumbai,Apex Electronics,850,420,598,37,125,500,17,75
+SKU-0328,Mechanical Keyboard,Accessories,Hyderabad,Global Gadgets,2800,1650,292,34,75,250,16,68
+SKU-0329,Mechanical Keyboard,Accessories,Bengaluru,Urban Workspace,2800,1650,20,29,70,250,6,45
+SKU-0330,Bluetooth Headphones,Electronics,Bengaluru,Apex Electronics,4200,2750,1,75,55,180,7,16
+SKU-0331,Bluetooth Headphones,Electronics,Mumbai,Urban Workspace,4200,2750,33,12,55,180,15,31
+SKU-0332,Wireless Mouse,Accessories,Bengaluru,TechNova Distributors,850,420,150,58,125,500,18,56
+SKU-0333,USB-C Hub,Accessories,Pune,Prime Office Supply,1900,1050,279,68,65,220,16,54
+SKU-0334,Webcam HD,Electronics,Delhi,Urban Workspace,3200,2150,8,57,45,150,6,6
+SKU-0335,Bluetooth Headphones,Electronics,Pune,Prime Office Supply,4200,2750,254,63,60,180,13,7
+SKU-0336,Ergonomic Footrest,Furniture,Pune,TechNova Distributors,2200,1300,95,21,40,130,15,4
+SKU-0337,Webcam HD,Electronics,Hyderabad,Apex Electronics,3200,2150,13,16,50,150,18,5
+SKU-0338,Bluetooth Headphones,Electronics,Hyderabad,Global Gadgets,4200,2750,349,31,55,180,5,15
+SKU-0339,Wireless Mouse,Accessories,Bengaluru,Prime Office Supply,850,420,555,3,120,500,3,18
+SKU-0340,USB-C Hub,Accessories,Mumbai,Global Gadgets,1900,1050,130,57,65,220,11,58
+SKU-0341,Mechanical Keyboard,Accessories,Delhi,Apex Electronics,2800,1650,164,21,70,250,17,44
+SKU-0342,Ethernet Adapter,Accessories,Mumbai,Urban Workspace,750,330,407,26,85,280,4,76
+SKU-0343,27-inch Monitor,Electronics,Mumbai,Global Gadgets,14500,11200,197,1,40,100,15,58
+SKU-0344,Office Chair,Furniture,Hyderabad,Global Gadgets,7800,5600,46,29,25,80,12,19
+SKU-0345,Bluetooth Headphones,Electronics,Delhi,Prime Office Supply,4200,2750,279,11,60,180,14,25
+SKU-0346,Ethernet Adapter,Accessories,Hyderabad,Global Gadgets,750,330,453,25,80,280,16,25
+SKU-0347,Wireless Mouse,Accessories,Bengaluru,Urban Workspace,850,420,437,53,125,500,8,39
+SKU-0348,Standing Desk,Furniture,Delhi,Global Gadgets,18500,14300,93,40,15,45,9,43
+SKU-0349,Webcam HD,Electronics,Delhi,TechNova Distributors,3200,2150,26,33,50,150,8,62
+SKU-0350,External SSD 1TB,Electronics,Mumbai,Global Gadgets,7200,5400,85,17,30,100,15,71
+SKU-0351,Webcam HD,Electronics,Bengaluru,Prime Office Supply,3200,2150,59,44,50,150,18,48
+SKU-0352,Ethernet Adapter,Accessories,Hyderabad,Global Gadgets,750,330,439,20,85,280,12,56
+SKU-0353,Standing Desk,Furniture,Hyderabad,Urban Workspace,18500,14300,39,69,15,45,9,47
+SKU-0354,27-inch Monitor,Electronics,Bengaluru,Apex Electronics,14500,11200,15,31,35,100,12,42
+SKU-0355,Mechanical Keyboard,Accessories,Hyderabad,TechNova Distributors,2800,1650,485,12,70,250,6,21
+SKU-0356,Bluetooth Headphones,Electronics,Bengaluru,Urban Workspace,4200,2750,0,72,55,180,9,79
+SKU-0357,Printer,Electronics,Pune,Prime Office Supply,9800,7600,83,50,20,70,16,17
+SKU-0358,Ergonomic Footrest,Furniture,Pune,Prime Office Supply,2200,1300,126,45,40,130,18,10
+SKU-0359,Mechanical Keyboard,Accessories,Pune,TechNova Distributors,2800,1650,71,37,70,250,14,35
+SKU-0360,Office Chair,Furniture,Pune,TechNova Distributors,7800,5600,108,29,30,80,13,76
+SKU-0361,Bluetooth Headphones,Electronics,Pune,Apex Electronics,4200,2750,280,7,55,180,6,21
+SKU-0362,Mechanical Keyboard,Accessories,Bengaluru,Global Gadgets,2800,1650,94,13,75,250,8,58
+SKU-0363,Power Bank,Accessories,Bengaluru,Global Gadgets,1600,900,257,14,70,240,17,18
+SKU-0364,Wireless Mouse,Accessories,Hyderabad,Urban Workspace,850,420,805,10,125,500,2,49
+SKU-0365,External SSD 1TB,Electronics,Pune,Apex Electronics,7200,5400,195,70,30,100,5,13
+SKU-0366,Mechanical Keyboard,Accessories,Hyderabad,Urban Workspace,2800,1650,126,55,70,250,9,63
+SKU-0367,Standing Desk,Furniture,Hyderabad,Prime Office Supply,18500,14300,31,24,20,45,11,26
+SKU-0368,Standing Desk,Furniture,Bengaluru,TechNova Distributors,18500,14300,19,44,15,45,14,2
+SKU-0369,Standing Desk,Furniture,Mumbai,Apex Electronics,18500,14300,16,6,20,45,11,44
+SKU-0370,Desk Lamp,Furniture,Mumbai,Apex Electronics,1150,620,366,50,60,200,5,78
+SKU-0371,Printer,Electronics,Hyderabad,TechNova Distributors,9800,7600,29,55,25,70,6,33
+SKU-0372,Bluetooth Headphones,Electronics,Hyderabad,TechNova Distributors,4200,2750,240,75,55,180,5,24
+SKU-0373,Bluetooth Headphones,Electronics,Mumbai,Prime Office Supply,4200,2750,351,19,60,180,11,42
+SKU-0374,Power Bank,Accessories,Pune,Global Gadgets,1600,900,341,34,70,240,2,37
+SKU-0375,27-inch Monitor,Electronics,Bengaluru,Urban Workspace,14500,11200,181,7,35,100,14,70
+SKU-0376,Webcam HD,Electronics,Pune,Global Gadgets,3200,2150,15,18,45,150,12,41
+SKU-0377,Laptop Stand,Accessories,Hyderabad,Urban Workspace,1350,700,483,4,90,300,18,29
+SKU-0378,Wireless Mouse,Accessories,Bengaluru,TechNova Distributors,850,420,388,28,120,500,17,34
+SKU-0379,Ergonomic Footrest,Furniture,Bengaluru,Global Gadgets,2200,1300,173,74,40,130,4,49
+SKU-0380,Bluetooth Headphones,Electronics,Mumbai,Apex Electronics,4200,2750,24,1,55,180,15,25
+SKU-0381,Desk Lamp,Furniture,Pune,TechNova Distributors,1150,620,271,67,65,200,9,77
+SKU-0382,Wireless Mouse,Accessories,Bengaluru,Prime Office Supply,850,420,336,10,125,500,17,30
+SKU-0383,Office Chair,Furniture,Mumbai,Prime Office Supply,7800,5600,57,33,30,80,10,39
+SKU-0384,27-inch Monitor,Electronics,Bengaluru,Apex Electronics,14500,11200,24,27,35,100,4,80
+SKU-0385,Wireless Mouse,Accessories,Bengaluru,Urban Workspace,850,420,370,33,125,500,4,31
+SKU-0386,Printer,Electronics,Bengaluru,Urban Workspace,9800,7600,26,28,20,70,18,20
+SKU-0387,Wireless Mouse,Accessories,Hyderabad,TechNova Distributors,850,420,671,49,125,500,18,62
+SKU-0388,Mechanical Keyboard,Accessories,Mumbai,Urban Workspace,2800,1650,279,4,70,250,16,31
+SKU-0389,Webcam HD,Electronics,Hyderabad,Apex Electronics,3200,2150,26,4,45,150,10,7
+SKU-0390,Ethernet Adapter,Accessories,Mumbai,TechNova Distributors,750,330,96,74,80,280,6,30
+SKU-0391,Ergonomic Footrest,Furniture,Mumbai,TechNova Distributors,2200,1300,156,75,40,130,15,31
+SKU-0392,Standing Desk,Furniture,Hyderabad,Urban Workspace,18500,14300,40,21,15,45,3,32
+SKU-0393,Office Chair,Furniture,Mumbai,Prime Office Supply,7800,5600,43,29,25,80,4,23
+SKU-0394,Printer,Electronics,Hyderabad,TechNova Distributors,9800,7600,132,55,20,70,6,54
+SKU-0395,USB-C Hub,Accessories,Hyderabad,Global Gadgets,1900,1050,300,29,65,220,7,56
+SKU-0396,Desk Lamp,Furniture,Mumbai,Prime Office Supply,1150,620,175,66,60,200,14,21
+SKU-0397,Desk Lamp,Furniture,Bengaluru,Apex Electronics,1150,620,311,71,65,200,2,64
+SKU-0398,27-inch Monitor,Electronics,Bengaluru,Urban Workspace,14500,11200,66,15,40,100,13,23
+SKU-0399,Printer,Electronics,Hyderabad,Urban Workspace,9800,7600,13,9,25,70,17,63
+SKU-0400,27-inch Monitor,Electronics,Pune,Global Gadgets,14500,11200,140,4,35,100,16,79
+SKU-0401,Ergonomic Footrest,Furniture,Hyderabad,Apex Electronics,2200,1300,88,54,40,130,11,69
+SKU-0402,USB-C Hub,Accessories,Bengaluru,TechNova Distributors,1900,1050,55,33,65,220,17,33
+SKU-0403,Bluetooth Headphones,Electronics,Delhi,Prime Office Supply,4200,2750,329,57,60,180,13,19
+SKU-0404,Mechanical Keyboard,Accessories,Bengaluru,Urban Workspace,2800,1650,137,69,70,250,10,9
+SKU-0405,Power Bank,Accessories,Bengaluru,TechNova Distributors,1600,900,474,23,70,240,2,47
+SKU-0406,Webcam HD,Electronics,Hyderabad,Apex Electronics,3200,2150,300,62,50,150,4,32
+SKU-0407,Bluetooth Headphones,Electronics,Bengaluru,Global Gadgets,4200,2750,302,6,55,180,7,44
+SKU-0408,27-inch Monitor,Electronics,Hyderabad,TechNova Distributors,14500,11200,97,41,40,100,8,48
+SKU-0409,Webcam HD,Electronics,Hyderabad,Urban Workspace,3200,2150,158,33,45,150,13,75
+SKU-0410,Ergonomic Footrest,Furniture,Mumbai,TechNova Distributors,2200,1300,38,38,40,130,7,20
+SKU-0411,Standing Desk,Furniture,Delhi,Urban Workspace,18500,14300,41,38,15,45,18,57
+SKU-0412,Standing Desk,Furniture,Hyderabad,Urban Workspace,18500,14300,5,12,20,45,6,6
+SKU-0413,Mechanical Keyboard,Accessories,Pune,Urban Workspace,2800,1650,80,9,70,250,18,71
+SKU-0414,Standing Desk,Furniture,Delhi,Urban Workspace,18500,14300,76,16,15,45,6,15
+SKU-0415,Ethernet Adapter,Accessories,Hyderabad,Prime Office Supply,750,330,200,12,85,280,15,17
+SKU-0416,Wireless Mouse,Accessories,Pune,Global Gadgets,850,420,1000,23,120,500,18,0
+SKU-0417,Office Chair,Furniture,Delhi,TechNova Distributors,7800,5600,138,31,30,80,8,36
+SKU-0418,Ergonomic Footrest,Furniture,Hyderabad,Urban Workspace,2200,1300,242,39,45,130,6,44
+SKU-0419,Printer,Electronics,Bengaluru,Prime Office Supply,9800,7600,6,53,25,70,9,21
+SKU-0420,Printer,Electronics,Mumbai,Global Gadgets,9800,7600,62,49,25,70,10,1
